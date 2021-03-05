@@ -59,7 +59,7 @@ ext {
     zxingcoreVersion = '3.2.1'
     zxingbarcodescannerVersion = '1.8.4'
     rxjavaVersion = '2.1.9'
-    rxandroidVersion = '2.0.2'
+    rxandroidVersion = '2.1.1'
     sweeterrorVersion = '1.0.0'
     mifosPasscodeVersion = '0.3.0'
     cropviewVersion = '1.1.7'
